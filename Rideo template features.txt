@@ -1,0 +1,33 @@
+Free version template features
+
+home version (1)
+about us page (1)
+Blog page (1)
+Blog details (1)
+checkout page (1)
+cart page (1)
+shop page (1)
+product details page (1)
+wishlist page (1)
+register page (1)
+login page (1)
+contact page (1)
+without mega menu
+
+
+Pro version template features
+
+home version (3)
+about us page (1)
+Blog page (3)
+Blog details (1)
+checkout page (1)
+cart page (1)
+shop page (5)
+product details page (1)
+wishlist page (1)
+register page (1)
+login page (1)
+contact page (1)
+my account page (1)
+with mega menu
